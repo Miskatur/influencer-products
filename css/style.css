@@ -1,0 +1,43 @@
+/*-------------------------------
+       common section  
+--------------------------------*/
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/*------------------------------
+       Navbar section started 
+ -------------------------------*/
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 30px;
+}
+
+.nav-logo {
+    margin-top: 0px;
+    color: #3A3A3A;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #3A3A3A;
+}
+
+.nav-link {
+    margin-left: 20px;
+}
+
+.font-awesome {
+    height: 14px;
+    width: 14px;
+}
+
+/*----------------------------------
+        Navbar Section End 
+ ---------------------------------- */
